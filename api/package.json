@@ -1,11 +1,11 @@
 {
-    "name": "nodesql",
-    "version": "0.0.1",
-    "description": "A basic Express api.",
-    "main": "server.js",
+    "name": "api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no tests specified.\" && exit 1",
-        "start": "node server.js"
+        "start": "node index.js"
     },
     "contributors": [
         {
@@ -13,6 +13,7 @@
             "email": "lilcoltsmith@gmail.com"
         }
     ],
+    "license": "MIT",
     "dependencies": {
         "express": "^4.17.1"
     }
