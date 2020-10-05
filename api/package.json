@@ -1,0 +1,19 @@
+{
+    "name": "nodesql",
+    "version": "0.0.1",
+    "description": "A basic Express api.",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no tests specified.\" && exit 1",
+        "start": "node server.js"
+    },
+    "contributors": [
+        {
+            "name": "lilcoltsmith",
+            "email": "lilcoltsmith@gmail.com"
+        }
+    ],
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
