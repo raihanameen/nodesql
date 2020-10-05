@@ -1,11 +1,20 @@
 {
-  "name": "api",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "MIT"
+    "name": "api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no tests specified.\" && exit 1",
+        "start": "node index.js"
+    },
+    "contributors": [
+        {
+            "name": "lilcoltsmith",
+            "email": "lilcoltsmith@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
 }
