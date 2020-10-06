@@ -1,3 +1,10 @@
+/*
+This Script is to initialise the database for the first time
+****WARNING******
+Do not run this script in production on a database host that already has you test/prod data
+*/
+
+
 
 Create DATABASE node_api
 Go
